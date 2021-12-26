@@ -1,6 +1,6 @@
-<a target="_blank" href="https://shawncharles.com/">
+
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEju1LB2dKtYtb9PzZWEPqmA6v563bHkDzXNOVjiusGp3xNpcGOhk_1tA70IEw0swy1ce0R5DDbbPBO5EqIjksinT_pEKbKZ9-QVbnLYaJCgeCQHMls0sAtSan_zZnm0lg1b4G5dkjTDpjCpI4FaVFDLFNQK2Csp6vXdgD8PZ-k6kwfu09wCFTLhE1CM2A=s1920" height="100" width="100%">
-</a>
+
 
 <p align="center">
   <a target="_blank" href="https://theutopians.info/">
