@@ -17,7 +17,7 @@
 
 
 
-Motivated by the power of technology as a tool for positive change, I am a Boston-based full-stack software engineer with a background in Math, Physics, and Business Management.
+Motivated by the power of technology as a tool for positive change, I am a self-taught backend developer with a background in History and Political Science.
 
 See [my website](https://theutopians.info) for more information!
 
